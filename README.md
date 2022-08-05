@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a student learning Data Science and aspiring Open Source contributor.
+I'm a student learning Data Science and an aspiring Open Source contributor.
 
 
 ## 🔗 Links
@@ -17,9 +17,9 @@ I'm a student learning Data Science and aspiring Open Source contributor.
 
 
 ## My Current Status
-👩‍💻 I'm currently working on improving my skills in areas of machine learning.
+👩‍💻 I'm currently working on improving my skills in areas of ML.
 
-🧠 I'm currently learning ML.
+🧠 I believe in pi shape learning. I wanna master ML, Computer Vision, NLP; contibute & participate in many OpenScource opportunities that I've explored recently in these Domain.
 
 👯‍♀️ I'm looking to collaborate with peers in the domain of Data Science, ML, NLP, Computer Vision who can help me accelerate my career.
 
