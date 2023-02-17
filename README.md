@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a student learning Data Science and an aspiring Open Source contributor.
+Currently in UG learning Data Science and an aspiring.
 
 
 ## 🔗 Links
