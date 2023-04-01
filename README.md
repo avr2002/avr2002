@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Currently in UG, learning Data Science and an aspiring.
+Currently in UG, learning Data Science and an aspiring Data Scientist.
 
 
 ## 🔗 Links
