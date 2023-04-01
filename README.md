@@ -11,7 +11,7 @@ Currently in UG, learning Data Science and an aspiring.
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmitVikramRaj)
 
 <!-- ![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=71&color=2ea44f) -->
-![counter](https://pipedream.com/@avr05/copy-of-copy-of-github-profile-view-counter-p_95C6MBG)
+<!-- ![counter](https://pipedream.com/@avr05/copy-of-copy-of-github-profile-view-counter-p_95C6MBG) -->
 
 ## 🛠 Skills
 1. Python
