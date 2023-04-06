@@ -3,7 +3,8 @@
 
 
 ## 🚀 About Me
-Currently in UG, learning Data Science and an aspiring Data Scientist.
+Currently in UG, pursuing BS in Data Science & Applications from IIT Madras
+Learning Data Science and an aspiring **Machine Learning Engineer**
 
 
 ## 🔗 Links
