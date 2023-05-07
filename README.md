@@ -13,9 +13,6 @@ Learning to code to become a self-independent professional.
 
 ![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)
 
-<a href="[https://www.twitter.com/hemansnation](https://www.linkedin.com/in/amit-vikram-raj-883460207/)" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-/></a>
 ### Skills 🛠
 
 
