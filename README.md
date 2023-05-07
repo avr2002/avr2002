@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Student
 --------------------
 
-Learning to code to become a self-independent professional.
+***Learning to code to become a self-independent professional.***
 
 
 * 🌍  I'm based in Ranchi, JH, India
