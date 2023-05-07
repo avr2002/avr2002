@@ -6,10 +6,13 @@ Data Science Student
 
 Learning to code to become a self-independent professional.
 
+
 * 🌍  I'm based in Ranchi, JH, India
 * 🖥️  See my portfolio at [My Portfolio](http://avr2002.github.io/portfolio-avr/)
 * ✉️  You can contact me at [avr13405@gmail.com](mailto:avr13405@gmail.com)
 * 🧠  I'm learning NLP & CV and working on various projects in the same.
+
+* ⚡  I hate college education, so I took things in my hand and started self-learning coding, [ping me](https://www.linkedin.com/in/amit-vikram-raj-883460207/) here if you feel the same😂😂😂
 
 ![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)
 
