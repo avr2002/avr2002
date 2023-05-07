@@ -1,43 +1,46 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amit Vikram Raj
+=======================================================================================================================================
 
-# Hi, I'm Amit! 👋
+Data Science Student
+--------------------
 
+Learning to code to become a self-independent professional.
 
-## 🚀 About Me
-Currently in UG, pursuing BS in Data Science & Applications from IIT Madras
+* 🌍  I'm based in Ranchi, JH, India
+* 🖥️  See my portfolio at [My Portfolio](http://avr2002.github.io/portfolio-avr/)
+* ✉️  You can contact me at [avr13405@gmail.com](mailto:avr13405@gmail.com)
+* 🧠  I'm learning NLP & CV and working on various projects in the same.
 
-Learning Data Science and an aspiring **Machine Learning Engineer**
+![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)
 
-
-## 🔗 Links
-[![Follow me on LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-vikram-raj-883460207/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmitVikramRaj)
-
-<!-- ![Project Count](https://komarev.com/ghpvc/?username=kennethleungty&color=green) ![](https://img.shields.io/static/v1?label=Project+count&message=71&color=2ea44f) -->
-<!-- ![counter](https://pipedream.com/@avr05/copy-of-copy-of-github-profile-view-counter-p_95C6MBG) -->
-
-## 🛠 Skills
-1. Python
-2. SQL
-3. Machine Learning
+<a href="[https://www.twitter.com/hemansnation](https://www.linkedin.com/in/amit-vikram-raj-883460207/)" target="_blank" rel="noreferrer"><img
+src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+/></a>
+### Skills 🛠
 
 
-## My Current Status
-👩‍💻 I'm currently working on improving my skills in areas of ML.
-
-🧠 I believe in pi shape learning. I wanna master ML, Computer Vision, NLP; contibute & participate in many OpenScource opportunities that I've explored recently in these Domain.
-
-👯‍♀️ I'm looking to collaborate with peers in the domain of Data Science, ML, NLP, Computer Vision who can help me accelerate my career.
-
-🤔 I'm looking for someone who can help me introduce to the world of OpenSource and expose me to global opportunities and communities.
-
-💬 Ask me about anything you wish!
-
-📫 If you wanna connect with me then DM me on LinkedIn or Twitter
-
-😄 Pronouns...He/Him
-
-⚡️ 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+</p>
 
 
-![Logo](https://github-readme-stats.vercel.app/api?username=avr2002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+### Socials
 
+<p align="left"> <a href="https://www.dev.to/avr2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://amitvikramraj.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amitvikram.raj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amit-vikram-raj-883460207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@avr13405" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/avr_027" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/avr2002"><img src="https://github-readme-stats.vercel.app/api?username=avr2002&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="avr2002's GitHub stats" /></a>
+
+<a href="http://www.github.com/avr2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avr2002&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/avr2002"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=avr2002&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
