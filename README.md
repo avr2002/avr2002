@@ -15,7 +15,6 @@ Learning to code to become a self-independent professional.
 
 ### Skills 🛠
 
-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -26,6 +25,22 @@ Learning to code to become a self-independent professional.
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
+
+
+### Tools | Frameworks 
+
+<!-- Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL -->
+- **Data Preprocessing:** NumPy, Pandas, Excel. 
+- **Data Visualization:** Matplotlib, Seaborn, Plotly. 
+- **Machine and Deep Learning Implementation Framework:** Scikit-Learn, TensorFlow, PyCaret. 
+- **Natural Language Processing:** NLTK, Gensim(Word2Vec, FastText). 
+- **Computer Vision:** OpenCV
+- **Web Scraping:** Beautiful Soup, Urllib, Requests
+- **DataBases**: SQL, MongoDB
+- **Development:** Python, Flask, Git, Docker.
+- **Integrated Development Environment:** Jupyter-Notebook, VSCode, PyCharm. 
+<!-- - Cloud Services: AWS, Google Colaboratory, Kaggle kernel.  -->
+
 
 
 ### Socials
