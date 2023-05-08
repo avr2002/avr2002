@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Student
 --------------------
 
-⚡ I can figure our complex topics by Googling😁
+**My Super Power⚡** I can figure out complex topics by Googling😁
+
+
 <a href="https://www.google.com/"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google"/></a>
 ---------------------------------
 
