@@ -17,7 +17,10 @@ Data Science Student
 
 * ⚡  I hate college education, so I took things in my hand and started self-learning coding, [ping me](https://www.linkedin.com/in/amit-vikram-raj-883460207/) here if you feel the same😂😂😂
 
-![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)
+**![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)**
+
+<a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
 ### Skills 🛠
 
@@ -64,3 +67,5 @@ Data Science Student
 <a href="http://www.github.com/avr2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avr2002&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/avr2002"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=avr2002&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/avr2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avr2002&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
