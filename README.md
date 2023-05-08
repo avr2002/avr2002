@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Student
 --------------------
 
-I can figure our complex topics by Googling😁 <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google" /></a>
+⚡ I can figure our complex topics by Googling😁 <a><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google"/></a>
 ---------------------------------
 
 ***Learning to code to become a self-independent professional.***
