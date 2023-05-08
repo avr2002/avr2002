@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Student
 --------------------------
 
-### **My Super Power⚡** I can figure out complex topics by Googling😁 <a href="https://www.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google"/></a>
+**My Super Power⚡** I can figure out complex topics by Googling😁 <a href="https://www.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google"/></a>
 ------------------------------------------------------------------------------
 
-### ***Learning to code to become a self-independent professional.***
+***Learning to code to become a self-independent professional.***
 -----------------------------------------------------------------
 
 * 🌍  I'm based in Ranchi, JH, India
