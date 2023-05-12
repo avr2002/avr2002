@@ -48,7 +48,7 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 - **Computer Vision:** OpenCV
 - **Web Scraping:** Beautiful Soup, Urllib, Requests
 - **DataBases**: SQL, MongoDB
-- **Development:** Python, Flask, Git, Docker.
+- **Development:** Python, Flask, Steamlit, Git, Docker.
 - **Integrated Development Environment:** Jupyter-Notebook, VSCode, PyCharm. 
 <!-- - Cloud Services: AWS, Google Colaboratory, Kaggle kernel.  -->
 
