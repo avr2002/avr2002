@@ -1,14 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-# My name is Amit Vikram Raj
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
-<div align='center'>
-  <h2>Machine Learning Engineer</h2>
+<div align='left'>
+  <h2>My name is Amit Vikram Raj. I'm an aspiring Machine Learning Engineer.</h2>
 </div>
 
-**⚡🧐🔍** I can figure out complex topics by Googling😁
-------------------------------------------------------------------------------
+🔍 I can figure out complex topics by Googling😁
+
 
 ***Learning to code to become a self-independent professional.***
 -----------------------------------------------------------------
