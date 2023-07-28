@@ -1,8 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amit Vikram Raj
 =======================================================================================================================================
 
-<div align='center'>Machine Learning Engineer</div>
---------------------------
+<div align='center'>
+  <h2>Machine Learning Engineer</h2>
+</div>
+
+* **
 
 **⚡🧐🔍** I can figure out complex topics by Googling😁
 ------------------------------------------------------------------------------
