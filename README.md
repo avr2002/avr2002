@@ -5,11 +5,10 @@
   <h2>My name is Amit Vikram Raj. I'm an aspiring Machine Learning Engineer.</h2>
 </div>
 
-🔍 I can figure out complex topics by Googling😁
+## 🔍 I can figure out complex topics by Googling😁
 
+## **Learning to code to become a self-independent professional.**
 
-***Learning to code to become a self-independent professional.***
------------------------------------------------------------------
 
 * 🌍  I'm based in Ranchi, JH, India
 * 🖥️  See my portfolio at [My Portfolio](http://avr2002.github.io/portfolio-avr/)
