@@ -15,7 +15,7 @@
 * ✉️  You can contact me at [avr13405@gmail.com](mailto:avr13405@gmail.com)
 * 🧠  I'm learning NLP & Computer Vision and working on various projects in the same.
 * 😀  I'm mostly active on [LinkedIn](https://www.linkedin.com/in/avr27/)
-* ⚡  I hate college education, so I took things in my hand to learn to code and make my living, [ping me here](https://www.linkedin.com/in/avr27/) if you feel the same😂
+* ⚡  I hate college education, so I took things in my hand to learn to code and make my living. [Ping Me Here](https://www.linkedin.com/in/avr27/) if you feel the same😂
 
 **![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)**
 
