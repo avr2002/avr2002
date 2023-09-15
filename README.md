@@ -19,7 +19,6 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 
 * ⭐ **Open to REMOTE Opportunities(both Internationally & within India)**
 
-* **
 * 🌍  I'm based in Ranchi, JH, India
 * 🖥️  See my portfolio at [My Portfolio](http://avr2002.github.io/portfolio-avr/)
 * ✉️  You can contact me at [avr13405@gmail.com](mailto:avr13405@gmail.com)
