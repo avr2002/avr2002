@@ -1,15 +1,17 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
-<div align='left'>
+<div align='center'>
   <h2>My name is Amit Vikram Raj. I'm an aspiring Machine Learning Engineer.</h2>
 </div>
 
-- 👀 Looking for my first full-time role as a Machine Learning Engineer, preferably starting with an internship.
+- 👀 **Looking for my first full-time role as a Machine Learning Engineer, preferably starting with an internship.**
 
-- 👉🏼 ℙ𝕣𝕚𝕠𝕣𝕚𝕥𝕪 𝔽𝕠𝕣 𝕄𝕖: I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.
+- 👉🏼 **ℙ𝕣𝕚𝕠𝕣𝕚𝕥𝕪 𝔽𝕠𝕣 𝕄𝕖: I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
 
-- ⭐ Open to REMOTE Opportunities(both Internationally & within India)
+- ⭐ **Open to REMOTE Opportunities(both Internationally & within India)**
+
+* **
 
 ## 🔍 I can figure out complex topics by Googling & now ChatGPT-ing😁
 
