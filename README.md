@@ -1,34 +1,33 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
-<div align='center'>
+<div align='left'>
   <h2>My name is Amit Vikram Raj. I'm an aspiring Machine Learning Engineer.</h2>
 </div>
 
-- 👀 **Looking for my first full-time role as a Machine Learning Engineer, preferably starting with an internship.**
+**![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)**
 
-- 👉🏼 **ℙ𝕣𝕚𝕠𝕣𝕚𝕥𝕪 𝔽𝕠𝕣 𝕄𝕖: I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
+<a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
-- ⭐ **Open to REMOTE Opportunities(both Internationally & within India)**
-
-* **
 
 ## 🔍 I can figure out complex topics by Googling & now ChatGPT-ing😁
 
 ## **Learning to code to become a self-independent professional.**
 
+* 👀 **Looking for my first full-time role as a Machine Learning Engineer, preferably starting with an internship.**
 
+* 👉🏼 **ℙ𝕣𝕚𝕠𝕣𝕚𝕥𝕪 𝔽𝕠𝕣 𝕄𝕖: I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
+
+* ⭐ **Open to REMOTE Opportunities(both Internationally & within India)**
+
+* **
 * 🌍  I'm based in Ranchi, JH, India
 * 🖥️  See my portfolio at [My Portfolio](http://avr2002.github.io/portfolio-avr/)
 * ✉️  You can contact me at [avr13405@gmail.com](mailto:avr13405@gmail.com)
 * 🧠  I'm learning NLP & Computer Vision and working on various projects in the same.
 * 😀  I'm mostly active on [LinkedIn](https://www.linkedin.com/in/avr27/)
 * ⚡  College education hasn't added any value to my life, so I took things in my hand to learn to code and make my living out of it. [Ping Me Here](https://www.linkedin.com/in/avr27/) if you feel the same😂
-
-**![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)**
-
-<a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
 ### Skills 🛠
 
