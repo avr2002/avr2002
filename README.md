@@ -2,7 +2,7 @@
 
 
 <div align='left'>
-  <h2>My name is Amit Vikram Raj. I'm an aspiring Machine Learning Engineer.</h2>
+  <h2>My name is Amit. I'm an aspiring Machine Learning Engineer.</h2>
 </div>
 
 **![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)** &nbsp; <a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img
