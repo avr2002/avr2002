@@ -1,9 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
-<div align='left'>
-  <h2>My name is Amit. I'm an aspiring Machine Learning Engineer.</h2>
-</div>
+## My name is Amit. I'm an aspiring Machine Learning Engineer.
+
 
 **![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)** &nbsp; <a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
