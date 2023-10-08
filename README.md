@@ -1,5 +1,4 @@
-# Hi... 
-<div align='left'><img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width=50></div>
+# Hi... <div align='left'><img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width=50></div>
 
 
 ## My name is Amit. I'm an aspiring Machine Learning Engineer.
