@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Web Page</title>
-    <style>
-        .container {
-            display: inline-block;
-            vertical-align: middle;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Image">
-        <h1>Hi...</h1>
-    </div>
-</body>
-</html>
-
-<!---![](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)--->
+![](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)
 
 
 ## My name is Amit. I'm an aspiring Machine Learning Engineer.
