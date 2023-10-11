@@ -6,8 +6,7 @@
 
 ## My name is Amit. I'm an aspiring Machine Learning Engineer.
 
-![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)
-<a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img
+![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS) \\ <a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
 
