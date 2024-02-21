@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 * 🌍  I'm based in Ranchi, JH, India
 * 🖥️  See my portfolio at [My Portfolio](http://avr2002.github.io/portfolio-avr/)
 * ✉️  You can contact me at [avr13405@gmail.com](mailto:avr13405@gmail.com)
-* 🧠  I'm learning NLP & Computer Vision and working on various projects in the same.
+* 🧠  I'm learning NLP & Computer ML Engineering and working on various projects.
 * 😀  I'm mostly active on [LinkedIn](https://www.linkedin.com/in/avr27/)
 * ⚡  College education hasn't added any value to my life, so I took things in my hand to learn to code and make my living out of it. [Ping Me Here](https://www.linkedin.com/in/avr27/) if you feel the same😂
 
