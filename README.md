@@ -1,8 +1,6 @@
 <div align='left'>
-  <h1>Hi...</h1>
-  <img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width=50>
+  <h1>Hi...<img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width=50></h1>
 </div>
-
 
 ## My name is Amit. I'm an aspiring Machine Learning Engineer.
 
@@ -10,9 +8,9 @@
 src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
 
-## 🔍 I can figure out complex topics by Googling & now ChatGPT-ing😁
+### 🔍 I can figure out complex topics by Googling & now ChatGPT-ing😁
 
-## **Learning to code to become a self-independent professional.**
+### **Learning to code to become a self-independent professional.**
 
 * 👀 **Looking for my first full-time role as a Machine Learning Engineer, preferably starting with an internship.**
 
@@ -21,11 +19,12 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 * ⭐ **Open to REMOTE Opportunities(both Internationally & within India)**
 
 * 🌍  I'm based in Ranchi, JH, India
+* 🧠  I'm learning NLP & ML Engineering and working on various projects.
 * 🖥️  See my portfolio at [My Portfolio](http://avr2002.github.io/portfolio-avr/)
 * ✉️  You can contact me at [avr13405@gmail.com](mailto:avr13405@gmail.com)
-* 🧠  I'm learning NLP & Computer ML Engineering and working on various projects.
-* 😀  I'm mostly active on [LinkedIn](https://www.linkedin.com/in/avr27/)
+<!--- * 😀  I'm mostly active on [LinkedIn](https://www.linkedin.com/in/avr27/)
 * ⚡  College education hasn't added any value to my life, so I took things in my hand to learn to code and make my living out of it. [Ping Me Here](https://www.linkedin.com/in/avr27/) if you feel the same😂
+--->
 
 ### Skills 🛠
 
