@@ -8,9 +8,7 @@
 src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
 
-### 🔍 I can figure out complex topics by Googling & now ChatGPT-ing😁
-
-### **Learning to code to become a self-independent professional.**
+* 🔍 I can figure out complex topics by Googling & now ChatGPT-ing😁
 
 * 👀 **Looking for my first full-time role as a Machine Learning Engineer, preferably starting with an internship.**
 
@@ -18,10 +16,10 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 
 * ⭐ **Open to REMOTE Opportunities(both Internationally & within India)**
 
-* 🌍  I'm based in Ranchi, JH, India
+<!---* 🌍  I'm based in Ranchi, JH, India
 * 🧠  I'm learning NLP & ML Engineering and working on various projects.
 * 🖥️  See my portfolio at [My Portfolio](http://avr2002.github.io/portfolio-avr/)
-* ✉️  You can contact me at [avr13405@gmail.com](mailto:avr13405@gmail.com)
+* ✉️  You can contact me at [avr13405@gmail.com](mailto:avr13405@gmail.com) --->
 <!--- * 😀  I'm mostly active on [LinkedIn](https://www.linkedin.com/in/avr27/)
 * ⚡  College education hasn't added any value to my life, so I took things in my hand to learn to code and make my living out of it. [Ping Me Here](https://www.linkedin.com/in/avr27/) if you feel the same😂
 --->
@@ -47,12 +45,12 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 - **Data Preprocessing:** NumPy, Pandas, Excel. 
 - **Data Visualization:** Matplotlib, Seaborn, Plotly. 
 - **Machine and Deep Learning Implementation Framework:** Scikit-Learn, TensorFlow, PyCaret. 
-- **Natural Language Processing:** NLTK, Gensim(Word2Vec, FastText). 
+- **NLP:** NLTK, Gensim(Word2Vec, FastText), NER. 
 - **Computer Vision:** OpenCV
 - **Web Scraping:** Beautiful Soup, Urllib, Requests
 - **DataBases**: SQL, MongoDB
 - **Development:** Python, Flask, Steamlit, Git, Docker.
-- **Integrated Development Environment:** Jupyter-Notebook, VSCode, PyCharm. 
+- **IDEs:** Jupyter-Notebook, VSCode, PyCharm. 
 <!-- - Cloud Services: AWS, Google Colaboratory, Kaggle kernel.  -->
 
 
@@ -69,6 +67,6 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 
 <a href="http://www.github.com/avr2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avr2002&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/avr2002"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=avr2002&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--- <a href="http://www.github.com/avr2002"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=avr2002&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> --->
 
 
