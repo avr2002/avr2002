@@ -42,12 +42,12 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 <!-- Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL -->
 - **Data Preprocessing:** NumPy, Pandas, Excel. 
 - **Data Visualization:** Matplotlib, Seaborn, Plotly. 
-- **Machine and Deep Learning Implementation Framework:** Scikit-Learn, TensorFlow, PyCaret. 
-- **NLP:** NLTK, Gensim(Word2Vec, FastText), NER. 
-- **Computer Vision:** OpenCV
+- **ML and DL Framework:** Scikit-Learn, TensorFlow, PyCaret. 
+- **NLP:** NLTK, Gensim(Word2Vec, FastText), NER.
 - **Web Scraping:** Beautiful Soup, Urllib, Requests
 - **DataBases**: SQL, MongoDB
 - **Development:** Python, Flask, Steamlit, Git, Docker.
+- **Cloud:** AWS Lambda, DocumentDB, EC2, IAM
 - **IDEs:** Jupyter-Notebook, VSCode, PyCharm. 
 <!-- - Cloud Services: AWS, Google Colaboratory, Kaggle kernel.  -->
 
