@@ -1,8 +1,7 @@
 <div align='left'>
   <h1>Hi...<img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width=50></h1>
+  <h2>My name is Amit. I'm an aspiring Machine Learning Engineer.</h2>
 </div>
-
-## My name is Amit. I'm an aspiring Machine Learning Engineer.
 
 ![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS) <be /> <a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
