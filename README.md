@@ -7,15 +7,12 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 
 
 * 🔍 I can figure out complex topics by Googling & now ChatGPT-ing😁
-
+* 🧠  I'm learning NLP & ML Engineering and working on various projects.
 * 👀 **Looking for my first full-time role as a Machine Learning Engineer, preferably starting with an internship.**
-
 * 👉🏼 **ℙ𝕣𝕚𝕠𝕣𝕚𝕥𝕪 𝔽𝕠𝕣 𝕄𝕖: I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
-
 * ⭐ **Open to REMOTE Opportunities(both Internationally & within India)**
 
 <!---* 🌍  I'm based in Ranchi, JH, India
-* 🧠  I'm learning NLP & ML Engineering and working on various projects.
 * 🖥️  See my portfolio at [My Portfolio](http://avr2002.github.io/portfolio-avr/)
 * ✉️  You can contact me at [avr13405@gmail.com](mailto:avr13405@gmail.com) --->
 <!--- * 😀  I'm mostly active on [LinkedIn](https://www.linkedin.com/in/avr27/)
@@ -40,16 +37,14 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 ### Tools | Frameworks 
 
 <!-- Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL -->
-- **Data Preprocessing:** NumPy, Pandas, Excel. 
-- **Data Visualization:** Matplotlib, Seaborn, Plotly. 
+- **Data Preprocessing & Visualization:** NumPy, Pandas, Regex, Matplotlib, Seaborn, Plotly. 
+- **Cloud:** AWS Lambda, DocumentDB, EC2, SQS, S3
 - **ML and DL Framework:** Scikit-Learn, TensorFlow, PyCaret. 
 - **NLP:** NLTK, Gensim(Word2Vec, FastText), NER.
 - **Web Scraping:** Beautiful Soup, Urllib, Requests
 - **DataBases**: SQL, MongoDB
 - **Development:** Python, Flask, Steamlit, Git, Docker.
-- **Cloud:** AWS Lambda, DocumentDB, EC2, IAM
-- **IDEs:** Jupyter-Notebook, VSCode, PyCharm. 
-<!-- - Cloud Services: AWS, Google Colaboratory, Kaggle kernel.  -->
+- **IDEs:** Jupyter-Notebook, VSCode, PyCharm, Google Colab.
 
 
 
