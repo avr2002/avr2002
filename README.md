@@ -53,9 +53,7 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 <p align="left"> <a href="https://www.dev.to/avr2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://amitvikramraj.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amitvikram.raj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/avr27/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@avr13405" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/avr_027" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 --->
 
-### Badges
-
-<b>My GitHub Stats</b>
+### GitHub Stats
 
 <a href="http://www.github.com/avr2002"><img src="https://github-readme-stats.vercel.app/api?username=avr2002&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="avr2002's GitHub stats" /></a>
 
