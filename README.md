@@ -1,5 +1,5 @@
 <div align='left'>
-  <h1>Hi...<img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width=50><br>My name is Amit. I'm an aspiring Machine Learning Engineer.</h1>
+  <h1>Hi there...<img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width=50><br>I'm Amit. I'm an aspiring Machine Learning Engineer.</h1>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS) <be /> <a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img
