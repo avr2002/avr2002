@@ -3,18 +3,53 @@
 </div>
 
 
-## About me
+## ✨ About me
 
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td valign="top" width="70%" style="padding-right: 10px; border: none;">
+      
+* 🎓 I'm an aspiring ML/MLOps Engineer.
+
+* 🧠 Learning NLP, ML Engineering, and writing clean and production-ready code in Python.
+
+* ⭐ DMs are open, come say Hi :))
+
+![Profile Views](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)
+
+<a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" />
+</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/avr27/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/avr_027">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/amitvikram.raj/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://gitlab.com/avr27">
+    <img src="https://skillicons.dev/icons?i=gitlab" />
+  </a>
+</p>
+    
+  </td>
+    <td valign="top" width="50%" style="border: none;">
+      
+  <img src="https://camo.githubusercontent.com/749c01e275a5a59ba7ae192e32a099a09f1545f182483478567f18ff2932a138/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" style="max-width: 100%;" />
+    
+  </td>
+  </tr>
+</table>
+
+
+<!---
 * 🎓 I'm an aspiring ML/MLOps Engineer.
 * 🧠 Learning NLP, ML Engineering, and writing clean and production-ready code in Python.
 * ⭐ DMs are open, come say Hi :))
-
-<!---
-* 🔍 I can figure out complex topics by Googling & now ChatGPT-ing😁
-* 👀 **Looking for my first full-time role as a Machine Learning Engineer, preferably starting with an internship.**
-* 👉🏼 **ℙ𝕣𝕚𝕠𝕣𝕚𝕥𝕪 𝔽𝕠𝕣 𝕄𝕖: I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
-* ⭐ **Open to REMOTE Opportunities(both Internationally & within India)**
---->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avr27/">
@@ -38,7 +73,14 @@
 </a>
 
 
-## Languages & Tools 🛠
+* 🔍 I can figure out complex topics by Googling & now ChatGPT-ing😁
+* 👀 **Looking for my first full-time role as a Machine Learning Engineer, preferably starting with an internship.**
+* 👉🏼 **ℙ𝕣𝕚𝕠𝕣𝕚𝕥𝕪 𝔽𝕠𝕣 𝕄𝕖: I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
+* ⭐ **Open to REMOTE Opportunities(both Internationally & within India)**
+--->
+
+
+## 🛠 Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv" title='AI/ML Tools' alt='AI/ML Tools'/><br>
@@ -84,7 +126,7 @@
 <p align="left"> <a href="https://www.dev.to/avr2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://amitvikramraj.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amitvikram.raj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/avr27/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@avr13405" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/avr_027" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 --->
 
-## GitHub Stats
+## ⚡GitHub Stats
 
 <p align="center">
   <a href="http://www.github.com/avr2002">
