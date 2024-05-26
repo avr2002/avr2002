@@ -1,9 +1,6 @@
 <div align='left'>
-  <h1>Hi there...<img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width=50>I'm Amit</h1>
+  <h1><img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width=50>Hey there, I'm Amit</h1>
 </div>
-
-![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS) <be /> <a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
 
 ## About me
@@ -34,6 +31,12 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
   </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)
+
+<a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" />
+</a>
+
 
 ## Languages & Tools 🛠
 
@@ -62,7 +65,7 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 
 <!--- ### Tools | Frameworks -->
 
-
+<!---
 - **Data Preprocessing & Visualization:** NumPy, Pandas, Regex, Matplotlib, Seaborn, Plotly. 
 - **Cloud:** AWS Lambda, DocumentDB, EC2, SQS, S3, Docker, GCP
 - **ML/DL Framework:** Scikit-Learn, TensorFlow, PyCaret. 
@@ -71,6 +74,7 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
 - **DataBases**: SQL, MongoDB
 - **Development:** Python, Flask, FastAPI, Steamlit, Git, GitHub Actions, CI/CD.
 - **IDEs:** VSCode, PyCharm, Google Colab, Jupyter-Notebook.
+--->
 
 
 
@@ -91,7 +95,3 @@ src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-b
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avr2002&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </p>
-
-<!--- <a href="http://www.github.com/avr2002"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=avr2002&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> --->
-
-
