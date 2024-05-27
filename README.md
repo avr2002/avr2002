@@ -13,7 +13,11 @@
 
 * 🧠 Learning NLP, ML Engineering, and writing clean and production-ready code in Python.
 
+* 🪶 I write on [LinkedIn](https://www.linkedin.com/in/avr27/)!
+
 * ⭐ DMs are open, come say Hi :))
+
+* 🐳 [**bento.me**](https://bento.me/avr27)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)
 
