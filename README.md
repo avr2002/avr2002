@@ -1,5 +1,5 @@
 <div align='left'>
-  <h1><img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width=50>Hey there, I'm Amit</h1>
+  <h1><img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width=50>Hiya, I'm Amit</h1>
 </div>
 
 
@@ -85,7 +85,7 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv" title='AI/ML Tools' alt='AI/ML Tools'/><br>
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch" title='AI/ML Tools' alt='AI/ML Tools'/><br>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,html,css,postman" title='APIs' alt='APIs'/><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,dynamodb,MongoDB" title='Database' alt='Database'/><br>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker" title='Cloud' alt='Cloud'/><br>
