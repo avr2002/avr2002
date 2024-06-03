@@ -11,7 +11,7 @@
       
 * 🎓 I'm an aspiring ML/MLOps Engineer.
 
-* 🧠 Learning NLP, ML Engineering, and writing clean and production-ready code in Python.
+* 🧠 Learning NLP, ML Engineering, and writing clean, production-ready Python code.
 
 * 🪶 I write on [LinkedIn](https://www.linkedin.com/in/avr27/)!<br>🐳 [**bento.me**](https://bento.me/avr27)
 
