@@ -3,8 +3,6 @@
 </div>
 
 
-## ✨ About me
-
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td valign="top" width="70%" style="padding-right: 10px; border: none;">
