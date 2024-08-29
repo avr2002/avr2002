@@ -41,7 +41,7 @@
   </td>
     <td valign="top" width="50%" style="border: none;">
       
-  <img src="https://camo.githubusercontent.com/749c01e275a5a59ba7ae192e32a099a09f1545f182483478567f18ff2932a138/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" style="max-width: 100%;" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" style="max-width: 100%;"/>
     
   </td>
   </tr>
@@ -49,6 +49,9 @@
 
 
 <!---
+GIF: 
+<img src="https://camo.githubusercontent.com/749c01e275a5a59ba7ae192e32a099a09f1545f182483478567f18ff2932a138/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" style="max-width: 100%;" />
+
 * 🎓 I'm an aspiring ML/MLOps Engineer.
 * 🧠 Learning NLP, ML Engineering, and writing clean and production-ready code in Python.
 * ⭐ DMs are open, come say Hi :))
