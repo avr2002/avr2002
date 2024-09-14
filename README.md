@@ -85,6 +85,7 @@ GIF:
 --->
 
 
+<!---
 ## 🛠 Languages & Tools
 
 <p align="center">
@@ -95,6 +96,7 @@ GIF:
   <img src="https://skillicons.dev/icons?i=bash,git,github,githubactions,gitlab" title='CI-CD' alt='CI-CD'/><br>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,vim,regex,vscode,pycharm" title='OS and Code Editors' alt='OS and Code Editors'/>
 </p>
+--->
 
 
 <!----<p align="left">
