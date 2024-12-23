@@ -11,7 +11,7 @@
 
 * 🧠 Learning NLP, ML Engineering, and writing clean, production-ready Python code.
 
-* 🪶 I write on [LinkedIn](https://www.linkedin.com/in/avr27/)!<br>🐳 [**bento.me**](https://bento.me/avr27)
+* 🪶 I write on <a href="https://www.linkedin.com/in/avr27/" target="_blank">LinkedIn</a>!<br>🐳 <a href="https://bento.me/avr27" target="_blank">**bento.me**</a>
 
 * ⭐ DMs are open, come say Hi :))
 
