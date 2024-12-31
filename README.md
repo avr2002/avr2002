@@ -9,7 +9,7 @@
       
 * 🎓 I'm an ML Platform Engineer starting in Jan 2025.
 
-* 🧠 Learning MLOps/DevOps, Data Engineering, and writing clean and production-ready Python code.
+* 🧠 Learning MLOps/DevOps, Data Engineering, and Backend Engineering in general.
 
 * 🪶 I write on <a href="https://www.linkedin.com/in/avr27/" target="_blank">LinkedIn</a>!<br>🐳 <a href="https://bento.me/avr27" target="_blank">**bento.me**</a>
 
