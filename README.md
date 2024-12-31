@@ -7,7 +7,7 @@
   <tr style="border: none;">
     <td valign="top" width="70%" style="padding-right: 10px; border: none;">
       
-* 🎓 I'm an ML Platform Engineer starting in Jan 2025.
+* 🎓 I'm an ML Platform Engineer.
 
 * 🧠 Learning MLOps/DevOps, Data Engineering, and Backend Engineering in general.
 
