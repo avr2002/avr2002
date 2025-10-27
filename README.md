@@ -11,7 +11,7 @@
 
 * 🧠 Learning MLOps/DevOps, Data Engineering, and Backend Engineering in general.
 
-* 🪶 I write on <a href="https://www.linkedin.com/in/avr27/" target="_blank">LinkedIn</a>!<br>🐳 <a href="https://bento.me/avr27" target="_blank">**bento.me**</a>
+* 🪶 I write on <a href="https://www.linkedin.com/in/avr27/" target="_blank">LinkedIn</a>!<!-- <br>🐳 <a href="https://bento.me/avr27" target="_blank">**bento.me**</a> -->
 
 * ⭐ DMs are open, come say Hi :))
 
